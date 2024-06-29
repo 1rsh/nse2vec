@@ -1,3 +1,5 @@
 */__pycache__
 data/embedding_data_files
 data/*.csv
+try.ipynb
+data/kaggle-data
