@@ -27,7 +27,13 @@ Please follow [main.ipynb](main.ipynb) for the code to train the embedding model
     └── visualize.py
 ```
 
-Original Paper:
+### Final Results:
+| Data | Train Epochs | Accuracy | Accuracy (top 3) |
+| --- | --- | --- | --- |
+| NSE | 5 | 0.75 | 0.9 |
+| NSE+BSE | 5 | 0.76 | 0.9 |
+
+### Original Paper:
 ```
 @article{dolphin2022stock,
   title={Stock embeddings: Learning distributed representations for financial assets},
