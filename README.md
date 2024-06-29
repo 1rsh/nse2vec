@@ -12,8 +12,9 @@ Please follow [main.ipynb](main.ipynb) for the code to train the embedding model
 ├── README.md
 ├── data
 │   ├── data-utilities.ipynb
-│   ├── nse_historical_stocks.csv
-│   ├── returns_df_528_nse.csv
+│   ├── historical-stocks.csv
+│   ├── nse-data.csv
+│   ├── nsenbse-data.csv
 │   └── scrape-industry-data.ipynb
 ├── main.ipynb
 ├── nse2vec.pt
